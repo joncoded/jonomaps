@@ -9,3 +9,4 @@
 * postcss
 * tailwind
 * cosmicjs
+* mapbox
